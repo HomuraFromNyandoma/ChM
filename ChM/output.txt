@@ -1,0 +1,24 @@
+norm_of_(x_calculated-x_correct)(10) = 6.55032e-15
+
+norm_of_(x_calculated-x_correct)(100) = 1.37995e-10
+
+norm_of_(x_calculated-x_correct)(1000) = 7.85003e-10
+
+norm_of_(x_calculated-x_correct)(10000) = 2.27037e-09
+
+norm_of_(x_calculated-x_correct)(100000) = 2.66436e-10
+
+norm_of_(x_calculated-x_correct)(1000000) = 1.70134e-10
+
+norm_of_(x_calculated-x_correct)(10) = 3.97904e-13
+
+norm_of_(x_calculated-x_correct)(100) = 5.88027e-11
+
+norm_of_(x_calculated-x_correct)(1000) = 6.6698e-08
+
+norm_of_(x_calculated-x_correct)(10000) = 5.29801e-06
+
+norm_of_(x_calculated-x_correct)(100000) = 0.0684695
+
+norm_of_(x_calculated-x_correct)(1000000) = 0.116838
+
